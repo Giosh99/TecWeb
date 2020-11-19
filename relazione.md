@@ -1,3 +1,18 @@
+# <center> Relazione di accessibilitá di un sito Web
+
+ 
+
+Eseguita su: SleekParadise 
+
+URL: http://tecweb.studenti.math.unipd.it/esempio2/index.php
+
+
+
+### Svolta da: 
+ - Matteo Miotello 1224827
+ - Giosué Calgaro 1201244
+
+
 ## Analisi codice HTML  
   Per controllare se il sito avesse un HTML valido, si e' deciso di utilizzare lo strumento Total Validator, il quale dopo una scansione di tutte le pagine, ha dato i seguenti risultati:   
   1 Pagina **Home**: valida  
@@ -94,3 +109,10 @@ Il contrasto tra i colori dei testi e dello sfondo, a parte questi due esempi, r
 ## Conclusione
 
 Dopo questa analisi si puó notare come il sito in generale sia accessibile, con piccoli cambiamenti é possibile migliorare l'esperienza degli utenti con disabiliá visive.
+
+
+> Relazione svolta da:
+> 
+> Matteo Miotello 1224827
+> 
+> Giosué Calgaro 1201244
